@@ -15,7 +15,7 @@ A Python-based task management system with a graphical user interface (GUI) buil
 - Python 3.7 or higher
 - Required Python packages (see `requirements.txt`)
 
-## Installation
+## Usage
 
 1. Clone this repository to your local machine
 
