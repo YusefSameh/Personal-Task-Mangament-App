@@ -28,7 +28,7 @@ A Python-based task management system with a graphical user interface (GUI) buil
 3. Run the application:
 
     ```bash
-    python gui.py
+    python src/gui.py
     ```
 
 ## Dependencies
